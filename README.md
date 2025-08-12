@@ -2,9 +2,9 @@
 
 ## Requisitos
 
-*PHP 8.2 ou superior
-*Composer
-*Node.js 22 ou superior
+#### *PHP 8.2 ou superior
+#### *Composer
+#### *Node.js 22 ou superior
 
 ## Sequência para criar o projeto:
 
