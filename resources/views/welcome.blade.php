@@ -12,7 +12,8 @@
         <h1 class="mb-3 text-primary">❤️ Olá ❤️</h1>
         <h2 class="mb-4">Sejam Bem-Vindos!!!</h2>
         <a href="{{ route('user.create') }}" class="btn btn-lg bg-primary-subtle">
-             Cadastrar
+            Cadastrar
+        
         </a>
     </div>
 
