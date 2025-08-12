@@ -40,6 +40,7 @@
                 <div class="d-flex justify-content-between">
                     <a href="{{ route('../voltar') }}" class="btn bg-primary-subtle">⬅ Voltar</a>
                     <button type="submit" class="btn bg-primary-subtle">Cadastrar</button>
+                    
                 </div>
             </form>
         </div>
